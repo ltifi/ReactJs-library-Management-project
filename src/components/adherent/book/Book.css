@@ -1,0 +1,41 @@
+.book {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 10px;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.f span {
+    padding-right: 10px;
+}
+
+
+
+.book .actions button {
+    color: white;
+    background-color: #007eff;
+    margin-right: 10px;
+    border: none;
+    padding: 6px;
+}
+
+.customTask {
+    color: red
+}
+
+.book input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.book button {
+    color: white;
+    background-color: #007eff;
+    margin-right: 10px;
+    border: none;
+    padding: 6px;
+}
